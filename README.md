@@ -7,7 +7,7 @@ Unity prefab that adds the ability to Toggle On/Off Face Tracking within VRChat 
 Either [AdJerry's](https://github.com/Adjerry91/VRCFaceTracking-Templates) or [Pawlygon's](https://github.com/PawlygonStudio/VRC-Facetracking) VRCFT prefabs
 
 # HOW TO USE
-Drag the .unitypackage into your VRC Unity project, put either the AdJerry or Pawlygon VRCFT prefab inside your avatar's root, then place the *FT Mic Toggle Prefab* **BELOW** the VRCFT prefab
+Drag the .unitypackage into your VRC Unity project. Depending on what you have, place either the AdJerry or Pawlygon Mic Toggle Prefab **BELOW** the VRCFT prefab
 
 <img width="500" height="118" alt="Mic toggle" src="https://github.com/user-attachments/assets/45a7d804-c418-412e-a57c-c141fd65b25b" />
 
