@@ -11,6 +11,11 @@ Drag the .unitypackage into your VRC Unity project. Depending on what you have, 
 
 <img width="500" height="118" alt="Mic toggle" src="https://github.com/user-attachments/assets/45a7d804-c418-412e-a57c-c141fd65b25b" />
 
+# What does it do?
+It adds an extra toggle to your VRCFT Menu, when enabled, face tracking will automatically enable when unmuting, and automatically disable when muting
+
+<img width="409" height="343" alt="image" src="https://github.com/user-attachments/assets/aa2ca01a-01e5-46a0-b4d4-3974045b8c25" />
+
 # How does it work?
 Uses the "MuteSelf" Animator parameter to detect Mic status and dinamically disables or enables Face and Eye tracking depending on its state, this is a toggleable feature in case you don't want it enabled all the time, but consider it a "nice to have" depending on the situation
 
