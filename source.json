@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"VRCFT Mic Toggle",
+    "id":"com.vrchat.VRCFT-Mic-Toggle",
+    "url":"https://github.com/MooshPaw/VRCFT-Mic-Toggle/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"mooshcomissions@gmail.com",
+        "name":"MooshPaw",
+        "url":"https://github.com/MooshPaw/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Adds a Toggle to automatically Enable/Disable VRCFT with Mic Mute",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/MooshPaw/VRCFT-Mic-Toggle",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.mooshpaw.vrcft-mic-toggle",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/MooshPaw/VRCFT-Mic-Toggle/releases/latest"
             ]
         }
     ]
